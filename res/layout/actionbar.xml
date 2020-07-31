@@ -25,6 +25,5 @@
 	    android:textSize="15sp"
 	    android:inputType="text"
 	    android:drawableRight="@drawable/search_icon_32x32"
-	    ></EditText>
-    
+	    ></EditText> 
 </LinearLayout>
