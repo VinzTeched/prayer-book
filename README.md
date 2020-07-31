@@ -1,45 +1,33 @@
 Status Saver
 =====================
 
-An all-in app for saving WhatsApp status
+A prayer book app for Christians.
 
 Features
 ========
-* Save Image and Video for WhatsApp, Business WhatsApp and GB WhatsApp
-  
-  ![Status Saver Image](screenshots/status_saver1.png)
+* Screen wipe
 
-* Share and re-post for images and videos.
+* Enable support for multi-language
 
-  ![Status Saver Image](screenshots/status_saver3.jpg)
+* Mark favorite prayer
 
-* Delete any unwanted images and videos.
+* Share prayers to multiple platforms
 
-* Inbuilt Video Player.
-
-  ![Status Saver Image](screenshots/status_saver4.jpg)
-
-* Multi-select images and videos to save, share or delete.
-
-  ![Status Saver Image](screenshots/status_saver2.png)
+* Easy navigation
 
 Caveats
 =======
-This App as of Version 1.4.2 works only on minSDk=>14 and minSDK<=29.
+This App as of Version 1.1.2 works only on minSDk=>14 and minSDK<=29.
 
 Credits
 =======
-This app employed external plugins like TouchImageView by [Mike Ortiz](http://github.com/MikeOrtiz) and Floating Action Button by [Jerzy Chałupski](http://github.com/chalup).
-
-Disclaimer
-==========
-This software is not affliliated with, sponsored or endorsed by WhatsApp Inc.
+Prayers found in this app are adapted from several Christian prayer books.
 
 
 License
 =======
 
-    Copyright (C) 2020 Chibundo Ilonze
+    Copyright (C) 2020 Chibundo Ilonze Vincent
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

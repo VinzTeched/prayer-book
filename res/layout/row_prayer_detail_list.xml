@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="0.5dp"
+    android:paddingBottom="0.5dp"
+    android:orientation="vertical"
+    >
+
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:paddingTop="12dp"
+	    android:paddingBottom="12dp"
+	    android:orientation="horizontal"
+	    android:background="#EEFFFFFF" >
+	    
+		<TextView 
+		    android:textSize="20sp"
+		    android:textColor="#444466"
+		    android:layout_height="wrap_content"
+		    android:layout_width="0dip"
+		    android:layout_gravity="left"
+		    android:layout_weight="1"
+		    android:id="@+id/tvPrayerTitle"
+		    android:paddingLeft="10dp"
+		    android:textStyle="bold"
+		    />		
+				
+		
+		<ImageButton
+		    android:background="@drawable/share_blue_01"
+		    android:layout_width="22dp"
+	        android:layout_height="22dp"
+	        android:layout_gravity="right|center"
+	        android:layout_marginRight="28dp"
+		    android:focusable="true"
+			android:clickable="true"
+			android:id="@+id/btnShare"
+    		/>
+		    
+	    <ImageButton
+		    android:background="@drawable/star_gray_01"
+		    android:layout_width="22dp"
+	        android:layout_height="22dp"
+	        android:layout_gravity="right|center"
+	        android:layout_marginRight="28dp"
+		    android:focusable="true"
+			android:clickable="true"
+			android:id="@+id/btnFavorite"
+    		/>
+		
+		<ImageButton
+			android:background="@drawable/collapse_blue_01"
+			android:layout_width="20dp"
+	        android:layout_height="20dp"
+	        android:layout_marginRight="20dip"
+	        android:layout_gravity="right|center"	
+	        android:id="@+id/ivPrayerListIndicator"
+		    android:focusable="true"
+			android:clickable="true"
+			/>
+		
+	</LinearLayout>
+
+	<TextView 
+		    android:textSize="20sp"
+		    android:textColor="#222255"
+		    android:lineSpacingMultiplier="1.5"
+		    android:layout_height="wrap_content"
+		    android:layout_width="match_parent"
+		    android:id="@+id/tvPrayerContent"
+		    android:paddingLeft="10dp"
+		    android:paddingTop="10dp"
+		    android:paddingBottom="15dp"
+		    android:textIsSelectable="true"
+		    android:background="#EEFFFFFF"
+		    />
+	
+	
+</LinearLayout>

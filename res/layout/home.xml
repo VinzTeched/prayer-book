@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+     
+    <ImageView 
+        android:src="@drawable/background_002"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_alignParentTop="true"
+        />
+    
+    <ExpandableListView
+        android:id="@+id/exlvHomeListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00000000"
+        android:divider="#00000000"
+        android:alpha="0.85"
+        android:groupIndicator="@drawable/no_indicator"
+        android:smoothScrollbar="true"
+        />
+
+</RelativeLayout>

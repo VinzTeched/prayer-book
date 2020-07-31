@@ -12,7 +12,7 @@
         <meta-data android:name="DBVersion" android:value="1" />
 
         <meta-data android:name="android.app.default_searchable"
-            android:value="com.kartikhariharan.prayerbookapp.activities.SearchableActivity" />
+            android:value="com.techvinz.prayerbook.activities.SearchableActivity" />
 
         <activity
             android:name="com.techvinz.prayerbook.activities.HomeActivity"
