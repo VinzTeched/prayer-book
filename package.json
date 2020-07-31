@@ -1,0 +1,10 @@
+{
+  "name": "Prayer Book",
+  "version": "1.1.2",
+  "description": "A Christian prayer book",
+  "main": "SplashActivity.java",
+  "dependencies": {
+  },
+  "author": "",
+  "license": "ISC"
+}
