@@ -27,7 +27,7 @@ Prayers found in this app are adapted from several Christian prayer books.
 License
 =======
 
-    Copyright (C) 2020 Chibundo Ilonze Vincent
+    Copyright (C) 2020 Chibundo Ilonze Vincent - Vinshaggy Technology Limited
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
